@@ -1,19 +1,19 @@
-## MobChain
-This is a project done during the BIOTS2018 Hackathon. The aim of mobchain is to offer a decentralized car sharing place.
+## AMIS Transportation
+This is a project done during the BIOTS2018 Hackathon. The aim of AMIS is to offer a decentralized transportation system touching ground sea air market sharing places.
 
 The following is included in the repository:
 
 * doc:            documentation
 * example_webui:  An example web interface recieved during the course
 * homepage:       The web interface of our mobchain project
-* src:            Source code of the mobchain project
+* src:            Source code of the AMIS Transportation project
 * video:          Screen cast of homepage usage
 
-Go to https://n.ethz.ch/~jsieber/ to interact with the currently deployed contracts on the Ropsten test network. Make sure you have installed the MetaMask browser plugin and have selected the Ropsten test network.
+Go to https://ami-solution.github.io/transportation/ to interact with the currently deployed contracts on the Ropsten test network. Make sure you have installed the MetaMask browser plugin and have selected the Ropsten test network.
 
 ### User Interface
-Create new user: Add your name and car type, click "Add User", and confirm transaction. You will be rewarded 250 MOB Tokens.
-Request Car: Select start and end location and the car type. Currently only two lenders, one with a EV and one with one with a normal car.
+Create new user: Add your name and transportation type, click "Add User", and confirm transaction. You will be rewarded 250 MOB Tokens.
+Request Car: Select start and end location and the transportion type. Currently only two lenders, one with a EV and one with one with a regular terrestrial transportation system; could be bus, car, bike, motorcycle, horse...
 
 ### Deploying the contracts using remix
 1. Clone repository
