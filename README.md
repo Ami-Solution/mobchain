@@ -6,8 +6,8 @@ This is a project done during the BIOTS2018 Hackathon. The aim of AMIS is to off
 The following is included in the repository:
 
 * doc:            documentation
-* example_webui:  An example web interface recieved during the course
-* homepage:       The web interface of our mobchain project
+* example_webui:  An example of web interface 
+* homepage:       The web interface of Amis Mobility project
 * src:            Source code of the AMIS Transportation project
 * video:          Screen cast of homepage usage
 
