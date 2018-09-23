@@ -9,7 +9,7 @@ The following is included in the repository:
 * src:            Source code of the AMIS Transportation project
 * video:          Screen cast of homepage usage
 
-Go to https://ami-solution.github.io/transportation/ to interact with the currently deployed contracts on the Ropsten test network. Make sure you have installed the MetaMask browser plugin and have selected the Ropsten test network.
+Go to [https://ami-solution.github.io/transportation/homepage/](https://ami-solution.github.io/transportation/homepage/) to interact with the currently deployed contracts on the Ropsten test network. Make sure you have installed the MetaMask browser plugin and have selected the Ropsten test network.
 
 ### User Interface
 Create new user: Add your name and transportation type, click "Add User", and confirm transaction. You will be rewarded 250 MOB Tokens.
