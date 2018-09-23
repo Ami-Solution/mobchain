@@ -14,7 +14,7 @@ What is AMIS Transportation ?
 
 # Advanced Mobility Infrastructure Solution
 
-Advanced Mobility Infrastructure Solutions are part of the ERC20-AMIS Token Future, options and crypto derivatives Project.
+Advanced Mobility Infrastructure Solutions are part of the ERC20-AMIS Token Future, options and crypto derivatives Projects.
 Amis Transportation is a basic web front end designed to interact with on-chain smart contract ditributing reputation tokens and mobility tokens.
 
 ## AMIS Transportation
