@@ -17,6 +17,9 @@ Go to [https://ami-solution.github.io/transportation/homepage/](https://ami-solu
 Create new user: Add your name and transportation type, click "Add User", and confirm transaction. You will be rewarded 250 MOB Tokens.
 Request Car: Select start and end location and the transportion type. Currently only two lenders, one with a EV and one with one with a regular terrestrial transportation system; could be bus, car, bike, motorcycle, horse...
 
+### Testing the ropsten contract
+https://ropsten.etherscan.io/address/0x695812015959805765a768bFC81DEC406F1ae625  
+
 ### Deploying the contracts using remix
 1. Clone repository
 2. In MetaMask, select the Ropsten test network and ensure you have some funds in your wallet
