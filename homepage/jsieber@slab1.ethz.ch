@@ -51,19 +51,22 @@ body {font-family: "Lato", sans-serif}
             <option value="bern">Bern</option>
             <option value="basel">Basel</option>
             <option value="stgallen">St. Gallen</option>
+            <option value="walisellen">Wallisellen</option>
+            <option value="yverdon">Yverdon</option>
           </select></li>
         <li class="w3-padding">Car <span style="display:inline-block; width:5mm;"></span>
           <select name="car">
             <option value="zurich">Thomas' car</option>
             <option value="bern">Yannik's car</option>
+            <option value="yverdon">Larry's car</option>
           </select></li>
       </ul>
 
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
           <div class="w3-container w3-white">
-            <p><b>Request MobCoins</b></p>
-            <p class="w3-opacity">Fri 27 Nov 2016</p>
+            <p><b>Request Amis Mobility Coins</b></p>
+            <p class="w3-opacity">Fri 27 Nov 2017</p>
             <p>Praesent tincidunt sed tellus ut rutrum sed vitae justo.</p>
             <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Request MobCoins</button>
           </div>
